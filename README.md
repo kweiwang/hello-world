@@ -10,3 +10,5 @@ This is from branch playLocal01.
 Test integration with Slack.
 
 Test integration with Slack 02.
+
+Test integration with HipChat.
